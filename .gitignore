@@ -1,0 +1,16 @@
+# Fichiers générés par le système d'exploitation
+.DS_Store
+
+# Fichiers compilés
+*.pyc
+*.pyo
+*.pyd
+
+
+# Ignore  App
+/App
+
+# Ignore models
+/models
+
+
