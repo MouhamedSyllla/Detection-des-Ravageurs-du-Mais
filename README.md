@@ -11,7 +11,7 @@
 Seul les code source de l'interface utilisateur et la conception du modèle sont televersés dans ce repository. le dossier contenant le projet complet incluant tous les fichiers vous est partagé par ce lien-drive:
 https://drive.google.com/file/d/1yrxKshyXKipUAYxecbvNRVQ5jfMTc34d/view?usp=drive_link
 
-Ci-desous, un guide complet pour visualiser et tester l'interface utilisateur après avoir avoir telechargé le dossier complet.
+Ci-dessous, un guide complet pour visualiser et tester l'interface utilisateur après avoir avoir telechargé le dossier complet.
 
 
 # Installation
