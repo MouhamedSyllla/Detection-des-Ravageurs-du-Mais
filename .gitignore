@@ -7,8 +7,8 @@
 *.pyd
 
 
-# Ignore  App
-/App
+# Ignore  App/.env
+/App/.env
 
 # Ignore models
 /models
