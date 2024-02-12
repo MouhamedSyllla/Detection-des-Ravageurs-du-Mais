@@ -7,8 +7,13 @@
 *.pyd
 
 
-# Ignore  App/.env
+# Ignore App/.env
 /App/.env
+
+# Exclude all files and subfolders within App/ except src/
+/App/*
+!/App/src/
+
 
 # Ignore models
 /models
