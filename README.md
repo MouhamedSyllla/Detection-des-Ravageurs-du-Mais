@@ -8,7 +8,7 @@
 
 
 **Précisin**
-Seul les code source de l'interface utilisateur et la conception du modèle sont televersés dans ce repository. le dossier contenant le projet complet incluant tous les fichiers vous est partagé par lien-drive.
+Seul les code source de l'interface utilisateur et la conception du modèle sont televersés dans ce repository. le dossier contenant le projet complet incluant tous les fichiers vous est partagé par ce lien-drive:  https://drive.google.com/file/d/1mzFzNlfkVoXuVxQae977JHIvLL-sF-NV/view?usp=drive_link
 
 Ci-desous, un guide complet pour visualiser et tester l'interface utilisateur après avoir avoir telechargé le dossier complet.
 
