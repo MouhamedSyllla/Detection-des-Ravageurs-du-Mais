@@ -1,10 +1,6 @@
-**PROJET 1:  Identification Automatique des Ravageurs du Maïs**
+**PROJET:  Identification Automatique des Ravageurs du Maïs**
 
-**Maguette Diop**<br>
-**Ameth Sylla**<br>
-**Ndeye Galass Gaye**<br>
-**Omar Sall**<br>
-**Ramatoulay Diallo**<br>
+
 
 
 **Précisin**
